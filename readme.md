@@ -1,6 +1,6 @@
 # Tim Berners-Lee
 
-## [Version Deployer](https://cebe0210.github.io/tim-berners-lee/ "Githut-cebe0210")
+## [Version Déployée ](https://cebe0210.github.io/tim-berners-lee/ "Githut-cebe0210")
 
 Cet exercice est un pixel perfect de la page du média Britannica sur Tim Berners-Lee qui es considéré comme l'inventeur du language HTML. [Britannica Tim Berners-Lee](https://www.britannica.com/biography/Tim-Berners-Lee)  
 
