@@ -60,6 +60,7 @@
   }
 
   .chemin {
+    font-family: Arial, Helvetica, sans-serif;
     grid-column: 1/7;
     grid-row: 2;
     text-decoration: none;
@@ -69,6 +70,7 @@
   .titre {
     font-family: Georgia, 'Times New Roman', Times, serif;
     margin-left: 20px;
+   
     
     grid-column: 1/7;
     grid-row: 3;
@@ -79,9 +81,8 @@
   }
 
   .titre h2 {
+    margin-top: -20px;
     font-size: 16px;
-    
-
   }
 
   .contenu {
