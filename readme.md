@@ -49,7 +49,7 @@ mettre en œuvre les différents éléments (polices, image, logo, …​ )
 
 le résultat doit ressembler à l'image ci-dessous
 
-**Le déployement avec [Vite](https://vitejs.dev/ "Vitejs.dev") à été ajouter au consigne.**
+**Le déployement avec [Vite](https://vitejs.dev/ "Vitejs.dev") à été ajouter aux consignes.**
 
 ## Difficultées rencontrées :
 
