@@ -49,7 +49,7 @@ mettre en œuvre les différents éléments (polices, image, logo, …​ )
 
 le résultat doit ressembler à l'image ci-dessous
 
-** Le déployement avec [Vite](https://vitejs.dev/ "Vitejs.dev") à été ajouter au consigne. 
+**Le déployement avec [Vite](https://vitejs.dev/ "Vitejs.dev") à été ajouter au consigne.**
 
 ## Difficultées rencontrées :
 
@@ -62,4 +62,5 @@ Il faudra que je travail la dessu pour les prochains projets afin de pouvoir ren
 
 Comme le disait Mike ce matin
 > En code le problème se trouve toujours entre la chaise et l'écran.
+
 
